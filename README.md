@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![twitter](twitter.png)
-![linkedin](linkedin.png)
-![stackoverflow](stackoverflow.png)
-![medium](medium.png)
+![twitter](icon-twitter.png)
+![linkedin](icon-linkedin.png)
+![stackoverflow](icon-stackoverflow.png)
+![medium](icon-medium.png)
