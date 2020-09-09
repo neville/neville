@@ -1,3 +1,1 @@
-![cover](cover.jpg)
-
-### Hi there 👋
+### Hi there 👋 
