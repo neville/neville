@@ -1,3 +1,3 @@
-![alt text](cover.jpg "cover photo")
+![cover](cover.jpg)
 
 ### Hi there 👋
